@@ -16,7 +16,7 @@
 <img src="preview3.gif" width="500"/>
 
 ## Reflection 📝
-### **Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+### **Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**
 
 The requirements for the project were to create an inventory management application that allows the user to login. Once user credentials are verified the user should see a list of all current inventory items with real time accurate count. In addition to viewing the inventory, the user can also perform CRUD operations to create, read, update and delete items from the inventory database. Finally, the application should ask for SMS permissions and if granted the user will recieve low inventory alerts as well as being displayed in the notification center.
 
