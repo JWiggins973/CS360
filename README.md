@@ -32,7 +32,7 @@ The screens needed to support the user needs are the login screen, the home scre
 
 I approached designing the app by breaking the task down into smaller steps, mainly separating the layout development from the functionality development. The first thing I did was view apps that have a similar use case and plan out how I should design mine layout-wise. Once the layout was decided, I created each screen that was needed. Once this was done, I created the code that made each layout functional.
 
-### **How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+### **How did you test to ensure your code was functional? Why is this process important, and what did it reveal?**
 
 The project was broken down into smaller steps, and each step was tested individually. For example, I populated the database with dummy data to ensure the CRUD functions worked as intended before moving on to creating the notification functionality. This was important because when an issue does arise, I have a better idea of where the problems are most likely from, which makes debugging and full application testing more manageable.
 
