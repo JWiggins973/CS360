@@ -11,7 +11,7 @@
 - [x] Display low inventory items in notification center and or send text alert if allowed
 
 ## Preview 👀
-<img src="Preview/preview5.mov" width="500"/>
+<img src="Preview/preview5.mov" width="300"/>
 <img src="Preview/preview1.png" width="500"/>
 <img src="Preview/preview2.png" width="500"/>
 <img src="Preview/preview3.png" width="500"/>
