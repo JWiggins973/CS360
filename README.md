@@ -11,11 +11,13 @@
 - [x] Display low inventory items in notification center and or send text alert if allowed
 
 ## Preview 👀
-<img src="Preview/preview5.mov" width="200"/>
-<img src="Preview/preview1.png" width="300"/>
-<img src="Preview/preview2.png" width="300"/>
-<img src="Preview/preview3.png" width="300"/>
-<img src="Preview/preview4.png" width="300"/>
+<img src="Preview/preview5.mov" width="300"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="Preview/preview1.png" width="300"/>
+  <img src="Preview/preview2.png" width="300"/>
+  <img src="Preview/preview3.png" width="300"/>
+  <img src="Preview/preview4.png" width="300"/>
+</div>
 
 ## Reflection 📝
 ### **Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**
